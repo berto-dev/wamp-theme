@@ -1,7 +1,12 @@
 # wamp-theme
-{under-costruction} New Wamp semplfified theme
+<b>{under-costruction}</b> New Wamp semplfified theme<br>
+<b>This is a work in progress, it's not completed project.</b>
 
-This is a work in progress, it's not completed project.
+---
+
+<img src="https://raw.githubusercontent.com/bertz-tech/wamp-theme/main/www/preview.png" alt="alternative wamp theme"/>
+
+---
 
 Before flight:
 Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.
