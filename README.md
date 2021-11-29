@@ -15,7 +15,9 @@ Before flight:
 
 ```
 
-    0 - raccomended: install latest wamp with php 8.1.X https://sourceforge.net/projects/wampserver/files/latest/download
+    0 - raccomended: install latest wamp with php 8.1.X 
+            latest wamp: https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.2.6_x86.exe/download
+            add php8: https://sourceforge.net/projects/wampserver/files/latest/download
 
     1 - Move your project out of www
 
