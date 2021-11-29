@@ -9,7 +9,8 @@
 ---
 
 Before flight:
-Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.
+!!! Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.
+!!! Make a backup of www folder for override it
 
 1 - Move your project out of www
 
