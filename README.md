@@ -12,14 +12,16 @@ Before flight:
 !!! Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.
 !!! Make a backup of www folder for override it
 
-1 - Move your project out of www
+    0 - raccomended: install latest wamp with php 8.1.X https://sourceforge.net/projects/wampserver/files/latest/download
 
-2 - Backup your wamp classic empty www folder
+    1 - Move your project out of www
 
-3 - Change your www whit this themifized version
+    2 - Backup your wamp classic empty www folder
 
-4 - www it's now only fo localhost projects list so...<br>
-    Connect the new project location (project per project) in new alias, exemple:<br>
-    ex version no alias-> www/mysite01/<br>
-    to -> c:/myproject/mysite01<br>
+    3 - Change your www whit this themifized version
+
+    4 - www it's now only fo localhost projects list so...<br>
+        Connect the new project location (project per project) in new alias, exemple:<br>
+        ex version no alias-> www/mysite01/<br>
+        to -> c:/myproject/mysite01<br>
     
