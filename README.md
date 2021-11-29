@@ -1,6 +1,6 @@
 # wamp-theme
-<b>{under-costruction}</b> New Wamp semplfified theme<br>
-<b>This is a work in progress, it's not completed project.</b>
+<b>{under-costruction}</b> A new Wamp semplified theme<br>
+<b>This is prototype, a work in progress, it's not completed project.</b>
 
 ---
 
@@ -9,8 +9,11 @@
 ---
 
 Before flight:
-!!! Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.
-!!! Make a backup of www folder for override it
+
+⚠ Not use www folder for your site/app. This version of theme is directly for connect an external folder via an alias.<br>
+⚠ Make a backup of www folder for override it
+
+```
 
     0 - raccomended: install latest wamp with php 8.1.X https://sourceforge.net/projects/wampserver/files/latest/download
 
@@ -24,4 +27,5 @@ Before flight:
         Connect the new project location (project per project) in new alias, exemple:<br>
         ex version no alias-> www/mysite01/<br>
         to -> c:/myproject/mysite01<br>
-    
+
+```
