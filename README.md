@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/bertz-tech/wamp-theme/main/www/preview.png" alt="alternative wamp theme"/>
+<img src="./preview.png" alt="alternative wamp theme"/>
 
 ---
 
